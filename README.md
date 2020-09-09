@@ -16,3 +16,5 @@
 -Analizar el dataset y realizar el respectivo tratamiento de datos para optimos resultados.<br>
 -Comprobar, observar y analizar los comportamientos estadisticos de los datos.
 </p>
+<h1>Video del proyecto</h1>
+<p>https://www.youtube.com/watch?v=qIRdGwAX-Mg&t=3s</p>
